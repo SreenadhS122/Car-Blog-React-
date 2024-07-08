@@ -1,0 +1,149 @@
+body{
+    background-color: black;
+}
+*{
+    box-sizing: border-box;
+}
+ul,h1,h6{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    background-color: #232536;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.logo-name{
+    font-size: 18px;
+    color: white;
+    font-weight: 500; 
+}
+.navbar-toggler{
+    background-color: white !important;
+}
+.nav-link{
+    font-size: 16px !important;
+    font-weight: 400 !important;
+    color: white !important;
+}
+.hero{
+    background-color: #31323C;
+}
+.btn{
+    font-size: 14px !important;
+    font-weight: 700 !important;
+}
+.subscribe-btn{
+    background-color: white !important;
+    color: #232536 !important;
+    font-size: 14px !important;
+    font-weight: 700 !important;
+}
+.car-images{
+    position: relative;
+}
+.hero-content{
+    color: white !important;
+}
+.hero-content h1{
+    font-size: 70px;
+    font-weight: bold;
+}
+.hero-content p{
+    font-size: 18px;
+}
+.text-white{
+    color: white !important;
+}
+.text-dark{
+    color: #232536 !important;
+}
+.user-pic{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+
+}
+.username{
+    font-size: 10px;
+    font-weight: 600;
+    color: #2B2C34;
+    margin: 0;
+}
+.post-date{
+    font-size: 9px;
+    font-weight: 400;
+    color: #2B2C34;
+    margin: 0;
+}
+.blog-title{
+    font-size: 25px;
+    font-weight: 700;
+    color: #232536;
+}
+.article{
+    font-size: 16px;
+    font-weight: 400;
+    color: #232536;
+}
+.footer{
+    background-color: #232536;
+}
+.subscribe-form{
+    background-color: #2A2B39;
+
+}
+.subscribe-form input:focus{
+    outline: none !important;
+
+}
+.subscribe-form input{
+    border-radius: 10px !important;
+    border: 0px transparent !important;
+    box-shadow: none !important;
+}
+.subscribe-form h1{
+    font-size: 34px;
+    font-weight: 700;
+    color: white;
+}
+.btn-danger{
+    border-radius: 10px !important;
+    background-color: #FF5959 !important;
+}
+.footer-link{
+    color: white;
+    opacity: .7;
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0;
+}
+.icons{
+    color: white;
+}
+.car1{
+    top: -183px;
+    right: 15px;
+    z-index: 1;
+}
+.car2{
+    top: -66px;
+    left: 199px;
+    z-index: 2;
+}
+.car3{
+    bottom: -134px;
+    right: 141px;
+    z-index: 3;
+}
+.car4{
+    bottom: -81px;
+    left: 85px;
+    z-index: 1;
+}
+@media (max) {
+    
+}
